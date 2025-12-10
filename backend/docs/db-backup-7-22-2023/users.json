@@ -375,7 +375,7 @@
       "$numberLong": "1681640722114"
     }
   },
-  "resetPasswordToken": "1910ca17501c081fd99ee2983eb6aea74bd2637f663094b1fb22ae29dc9bbbba"
+  "resetPasswordToken": ""
 },{
   "_id": {
     "$oid": "644dc49301271596b419cd19"
