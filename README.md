@@ -6,7 +6,7 @@
 
 ![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
-# 🏖️ Beach Resort | Hotel Room Booking System
+# 🏖️ Beach Resort | House Booking System
 
 A comprehensive full-stack hotel room booking and management system built with modern web technologies. This application provides a complete solution for hotel room reservations, user management, and administrative operations.
 
