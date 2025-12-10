@@ -432,44 +432,4 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-### Md. Samiur Rahman (Mukul)
-
-- 🌐 Website: [srmukul.com](https://srmukul.com)
-- 📧 Email: [contact@srmukul.com](mailto:contact@srmukul.com)
-- 🐙 GitHub: [@SamiurRahmanMukul](https://github.com/SamiurRahmanMukul)
-- 💼 LinkedIn: [@SamiurRahmanMukul](https://www.linkedin.com/in/SamiurRahmanMukul)
-
-## 🙏 Acknowledgments
-
-- Express.js team for the robust web framework
-- MongoDB team for the flexible database solution
-- React and Next.js teams for the powerful frontend frameworks
-- Ant Design team for the comprehensive UI component library
-- All open-source contributors who made this project possible
-
----
-
-<p align="center">
-  <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
-</p>
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
-
-<!-- shield icon links -->
-
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
-
-<!-- live preview links -->
-
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
+### Elias Winberg
